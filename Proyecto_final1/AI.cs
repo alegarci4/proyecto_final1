@@ -11,7 +11,7 @@ namespace Proyecto_final1
     {
         private readonly HttpClient _httpClient;
         private const string GroqApiUrl = "https://api.groq.com/openai/v1/chat/completions";
-        private const string ApiKey = "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"; // API key
+        private const string ApiKey = ""; // API key
 
         public AI()
         {
